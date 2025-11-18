@@ -216,7 +216,7 @@ public class MemoryAllocationLab {
             return;
         }
 
-        processRequests(args[1]);
+        processRequests(args[0]);
         displayStatistics();
     }
 }
